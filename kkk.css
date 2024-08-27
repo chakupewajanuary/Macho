@@ -1,0 +1,11 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+#table{
+    padding: 12px;
+    margin: 10px;
+    border: 2px green solid;
+}
